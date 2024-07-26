@@ -4,7 +4,7 @@ Capable of plotting graphs for complex Trigonometric, Piecewise, Logarithmic fun
 Inculdes GUI based build using TKinter.
 Helpfull for basic python project using matplotlib.
 Example :
-Try plotting :         e**(-0.1*x) * sin(x)
+Try plotting the Oscillating Exponential Function : e**(-0.1*x) * sin(x)
 For all "re" cased function use ex. sin(x) etc. and for logarithmic function use np.log(x)
 
 
