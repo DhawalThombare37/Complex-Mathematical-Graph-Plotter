@@ -1,0 +1,15 @@
+numpy>=1.23.0
+matplotlib>=3.5.0
+tk
+
+---
+
+## 🔹 Notes
+numpy → For mathematical operations, trigonometric functions, and arrays.
+
+matplotlib → For plotting the graphs.
+
+tk → For the Tkinter GUI.
+
+On most systems, Tkinter comes with Python, but adding tk here helps ensure installation in environments like pip or virtualenv.
+
